@@ -1,0 +1,2 @@
+#!/bin/bash
+gerg -iA 3 "root" /etc/passwd/
