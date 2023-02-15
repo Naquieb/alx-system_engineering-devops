@@ -1,1 +1,1 @@
-0x03. Shell, init files, variables and expansions
+Create a script that create an alias
